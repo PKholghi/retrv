@@ -1,3 +1,6 @@
+Team Name: retrv
+Team Members: Darren Moore, Pedrum Kholghi, Danyaal Ghafoor
+ 
 Hours: 9-12 2-5 
 
 Practices: pair programming, tdd (to be revised continuously)
